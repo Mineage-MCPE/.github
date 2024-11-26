@@ -1,0 +1,2 @@
+# .github
+Mineage Practice
